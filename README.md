@@ -1,2 +1,2 @@
 # Meowdi
-Mood Journal with spicy feauters and way of operation 
+Listen & Discuss- somewhat spicy.
